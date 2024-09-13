@@ -1,5 +1,5 @@
 # DRLGene
-Disentanglement Representation Learning For Predicting Gene Mutation Status
+Disentanglement Representation Learning For Predicting Multi-Gene Mutation Status
 
 # Chinese Version
 解耦表征学习应用于多基因突变状态预测
